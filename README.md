@@ -66,4 +66,5 @@ For any questions or support, you can reach out to:
 Credits
 Alex David Du  
 Email: [Alexdaviddu26091996@gmail.com](mailto:Alexdaviddu26091996@gmail.com)  
-For more information, visit: https://duteczone.net/
+Telegram: [@Alexdu1996](https://t.me/Alexdu1996)  
+For more information, visit: [DuTecZone](https://duteczone.net/)
