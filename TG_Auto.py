@@ -81,13 +81,19 @@ def send_messages_to_groups(client, group_urls, delay):
 
         for group_url in group_urls:
             try:
-                client.send_message(group_url, latest_message.message)
+                if latest_message.media:
+                    # Send media file
+                    client.send_file(group_url, latest_message.media, caption=latest_message.message)
+                elif latest_message.message:
+                    # Send text message
+                    client.send_message(group_url, latest_message.message)
                 print(Fore.GREEN + f'Sent message to {group_url}')
                 time.sleep(delay)
             except Exception as e:
                 print(Fore.RED + f'Failed to send message to {group_url}: {e}')
     except Exception as e:
         print(Fore.RED + f'Error getting messages: {e}')
+
 
 # Main function
 def main():
