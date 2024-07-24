@@ -67,4 +67,4 @@ Credits
 Alex David Du  
 Email: [Alexdaviddu26091996@gmail.com](mailto:Alexdaviddu26091996@gmail.com)  
 Telegram: [@Alexdu1996](https://t.me/Alexdu1996)  
-For more information, visit: [DuTecZone](https://duteczone.net/)
+For more information, visit: [DuTecZone](https://duteczone.net/auto-message-sender-bot-for-telegram-python/)
