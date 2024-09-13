@@ -4,7 +4,7 @@
 
 Welcome to the DuTecZone Telegram Auto MsgBot! This Python-based automation tool is designed to simplify the process of forwarding messages from your Saved Messages to multiple Telegram groups. Whether you're managing communication for a community or need to distribute messages efficiently, this tool helps automate the process.
 
-For a detailed guide and further insights, check out our [Telegram Bot Auto Send Message article](https://duteczone.net/auto-message-sender-bot-for-telegram-python/).
+For a detailed guide and further insights, check out our [Telegram Bot Auto Send Message article](https://www.duteczone.com/auto-message-sender-bot-for-telegram-python/).
 
 ![telegram bot auto message sender](https://github.com/Alexdu1996/telegram-auto-msg-bot/blob/main/Telegram%20Bot%20Auto%20Message%20Sender.png?raw=true)
 ## Features
