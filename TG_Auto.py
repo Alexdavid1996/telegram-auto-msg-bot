@@ -23,7 +23,6 @@ def display_banner():
     """)
     print(Style.RESET_ALL)
     print(Fore.GREEN + "Duwiki - TG Auto MsgBot V1.0")
-    print(Fore.GREEN + "Visit our site: https://www.duwiki.net")
     print("")
 
 # Function to check and create necessary files if they don't exist
