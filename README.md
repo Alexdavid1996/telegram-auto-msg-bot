@@ -1,8 +1,8 @@
-# DuTecZone Telegram Auto MsgBot
-![DuTecZone GitHub](https://raw.githubusercontent.com/Alexdu1996/telegram-auto-msg-bot/refs/heads/main/Duwiki.net-.webp)
+# Duwiki Telegram Auto MsgBot
+![Duwiki GitHub](https://raw.githubusercontent.com/Alexdu1996/telegram-auto-msg-bot/refs/heads/main/Duwiki.net-.webp)
 
 
-Welcome to the DuTecZone Telegram Auto MsgBot! This Python-based automation tool is designed to simplify the process of forwarding messages from your Saved Messages to multiple Telegram groups. Whether you're managing communication for a community or need to distribute messages efficiently, this tool helps automate the process.
+Welcome to the Duwiki Telegram Auto MsgBot! This Python-based automation tool is designed to simplify the process of forwarding messages from your Saved Messages to multiple Telegram groups. Whether you're managing communication for a community or need to distribute messages efficiently, this tool helps automate the process.
 
 For a detailed guide and further insights, check out our [Telegram Bot Auto Send Message article](#).
 
