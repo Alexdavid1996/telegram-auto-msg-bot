@@ -69,4 +69,4 @@ Credits
 Alex David Du  
 Email: [Alexdaviddu26091996@gmail.com](mailto:Alexdaviddu26091996@gmail.com)  
 Telegram: [@Alexdu1996](https://t.me/Alexdu1996)  
-Site: [Duwiki](https://www.duwiki.net/)
+Site: https://www.duwiki.net
