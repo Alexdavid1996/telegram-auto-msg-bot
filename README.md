@@ -63,4 +63,4 @@ For any questions or support, you can reach out to:
 
 Credits
 Alex David Du  
-site:https://www.duteczone.com/
+site:https://www.duteczone.net/
